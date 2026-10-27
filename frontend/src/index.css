@@ -1,0 +1,135 @@
+@import "tailwindcss";
+
+@theme {
+  --color-gold-50: #fefdfa;
+  --color-gold-100: #fbf5e5;
+  --color-gold-200: #f6e9c5;
+  --color-gold-300: #edd693;
+  --color-gold-400: #e2be5c;
+  --color-gold-500: #d4af37;
+  --color-gold-600: #bd9327;
+  --color-gold-700: #997120;
+  --color-gold-800: #7d5920;
+  --color-gold-900: #6a491e;
+  --color-gold-950: #3d270c;
+
+  /* Redefine indigo to gold spectrum */
+  --color-indigo-50: #fefdfa;
+  --color-indigo-100: #fbf5e5;
+  --color-indigo-200: #f6e9c5;
+  --color-indigo-300: #edd693;
+  --color-indigo-400: #e2be5c;
+  --color-indigo-500: #d4af37;
+  --color-indigo-600: #bd9327;
+  --color-indigo-700: #997120;
+  --color-indigo-800: #7d5920;
+  --color-indigo-900: #6a491e;
+  --color-indigo-950: #3d270c;
+
+  /* Retune slate & zinc to pure luxury onyx blacks */
+  --color-slate-950: #040407;
+  --color-slate-900: #0b0b10;
+  --color-slate-850: #101017;
+  --color-slate-800: #161620;
+  --color-slate-700: #262635;
+  --color-slate-600: #444458;
+}
+
+:root {
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  color-scheme: dark;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-color: #070709;
+  color: #f7f3e6;
+  background-image: 
+    radial-gradient(ellipse 85% 55% at 50% -20%, rgba(212, 175, 55, 0.09), transparent 75%),
+    radial-gradient(ellipse 65% 45% at 100% 50%, rgba(189, 147, 39, 0.04), transparent 65%),
+    radial-gradient(ellipse 55% 40% at 0% 80%, rgba(212, 175, 55, 0.03), transparent 60%);
+  background-attachment: fixed;
+}
+
+/* Luxury Black & Gold Accents */
+.gold-glow {
+  box-shadow: 0 0 25px rgba(212, 175, 55, 0.25);
+}
+
+.gold-glow-subtle {
+  box-shadow: 0 0 15px rgba(212, 175, 55, 0.1);
+}
+
+.gold-gradient-text {
+  background: linear-gradient(135deg, #fff7d6 0%, #d4af37 50%, #997120 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gold-border-glow {
+  border-color: rgba(212, 175, 55, 0.35);
+  box-shadow: 0 0 15px rgba(212, 175, 55, 0.12);
+}
+
+/* Gold Primary Buttons */
+.bg-indigo-600, .bg-purple-600 {
+  background: linear-gradient(135deg, #d4af37 0%, #f6e08c 50%, #c59728 100%) !important;
+  color: #000000 !important;
+  font-weight: 700 !important;
+  box-shadow: 0 4px 18px rgba(212, 175, 55, 0.25) !important;
+  border: 1px solid rgba(255, 235, 160, 0.4) !important;
+}
+
+.bg-indigo-600:hover, .bg-purple-600:hover {
+  background: linear-gradient(135deg, #e5c353 0%, #faebb0 50%, #d4af37 100%) !important;
+  box-shadow: 0 4px 25px rgba(212, 175, 55, 0.45) !important;
+  transform: translateY(-1px);
+}
+
+/* Card & Surface Theming: Deep Onyx with Gold Hairlines */
+.border-slate-800 {
+  border-color: rgba(212, 175, 55, 0.14) !important;
+}
+
+.border-slate-700 {
+  border-color: rgba(212, 175, 55, 0.24) !important;
+}
+
+.hover\:border-slate-700:hover {
+  border-color: rgba(212, 175, 55, 0.45) !important;
+}
+
+.bg-slate-900, .bg-slate-900\/90, .bg-slate-900\/80, .bg-slate-900\/60 {
+  background-color: #0b0b10 !important;
+}
+
+.bg-slate-800, .bg-slate-800\/90, .bg-slate-800\/80, .bg-slate-800\/60, .bg-slate-800\/50, .bg-slate-800\/40 {
+  background-color: #12121a !important;
+}
+
+.bg-slate-950, .bg-slate-950\/50, .bg-slate-950\/40 {
+  background-color: #050508 !important;
+}
+
+/* Text selections & scrollbars */
+::selection {
+  background-color: #d4af37;
+  color: #000000;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #070709;
+}
+::-webkit-scrollbar-thumb {
+  background: #3d2f14;
+  border-radius: 9999px;
+  border: 1px solid rgba(212, 175, 55, 0.2);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #d4af37;
+}

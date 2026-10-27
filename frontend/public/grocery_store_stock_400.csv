@@ -1,0 +1,401 @@
+sku,product_name,category,unit,cost_price,selling_price,on_hand_qty,reorder_threshold
+SKU-PANTRY-001,All-Purpose Flour Unbleached 2kg,Pantry & Dry Goods,bag,8.50,11.09,91,35
+SKU-PROD-001,Yellow Bell Peppers,Fresh Produce,kg,1.96,3.16,68,28
+SKU-BAKE-001,Raspberry Seedless Preserve 370g,Bakery & Breakfast,jar,1.23,1.95,6,32
+SKU-BEV-001,Dark Roast Ground Coffee 340g,Beverages,bag,6.37,9.53,128,35
+SKU-PANTRY-002,Apple Cider Vinegar with Mother 500ml,Pantry & Dry Goods,bottle,6.72,9.39,51,35
+SKU-PANTRY-003,French Green Puy Lentils 500g,Pantry & Dry Goods,bag,3.03,4.42,71,29
+SKU-BEV-002,Lemon Lime Fizz 6x330ml,Beverages,pack,4.50,6.81,143,43
+SKU-BAKE-002,Ciabatta Rolls 4-pack,Bakery & Breakfast,pack,2.29,3.46,53,32
+SKU-PANTRY-004,Pure Bourbon Vanilla Extract 60ml,Pantry & Dry Goods,bottle,2.15,2.81,66,27
+SKU-SNK-001,White Cheddar Popcorn 130g,Snacks & Confectionery,bag,5.22,7.12,14,50
+SKU-BEV-003,Berry Hibiscus Kombucha 330ml,Beverages,bottle,3.00,4.61,207,50
+SKU-SNK-002,Dried Deglet Noor Dates 250g,Snacks & Confectionery,tub,6.39,10.17,10,29
+SKU-DAIRY-001,Oat Milk Yogurt Vanilla 450g,Dairy & Plant-Based,tub,3.14,4.32,0,27
+SKU-MEAT-001,Beef Meatballs Italian Style 400g,"Meat, Poultry & Seafood",pack,6.93,10.01,0,19
+SKU-FROZ-001,Four Cheese Gourmet Pizza 420g,Frozen Foods,box,4.04,6.21,99,32
+SKU-FROZ-002,Frozen Vegetable Spring Rolls 10-pack,Frozen Foods,box,7.70,11.12,51,18
+SKU-DAIRY-002,Blue Cheese Wedge 150g,Dairy & Plant-Based,wedge,2.48,3.26,96,30
+SKU-PANTRY-005,Creamy Alfredo Garlic Sauce 420g,Pantry & Dry Goods,jar,8.25,11.30,3,23
+SKU-PROD-002,Portobello Mushroom Caps 2-pack,Fresh Produce,pack,2.94,4.02,79,38
+SKU-DAIRY-003,Gorgonzola Crumbles 150g,Dairy & Plant-Based,tub,2.12,2.89,18,29
+SKU-SNK-003,Blue Corn Tortilla Chips 220g,Snacks & Confectionery,bag,3.35,5.05,148,44
+SKU-BEV-004,Pure Green Tea Organic 40 bags,Beverages,box,3.79,6.30,20,53
+SKU-PANTRY-006,Almond Flour Fine Blanched 500g,Pantry & Dry Goods,bag,6.22,8.58,59,47
+SKU-PROD-003,Sweet Sweet Potatoes,Fresh Produce,kg,4.06,5.60,124,39
+SKU-DAIRY-004,Greek Yogurt Vanilla 500g,Dairy & Plant-Based,tub,2.78,3.67,8,26
+SKU-PROD-004,Hass Avocados (Ready to Eat),Fresh Produce,pack,2.68,3.74,74,25
+SKU-BEV-005,Iced Green Tea with Honey 500ml,Beverages,bottle,4.47,5.87,99,58
+SKU-DAIRY-005,2% Reduced Fat Milk 1L,Dairy & Plant-Based,litre,4.98,6.56,80,42
+SKU-FROZ-003,Seasoned Waffle Fries 750g,Frozen Foods,bag,5.92,8.89,13,35
+SKU-FROZ-004,Frozen Cooked Chicken Nuggets 500g,Frozen Foods,bag,2.92,3.96,50,28
+SKU-PANTRY-007,Sea Salt Coarse Grinder 200g,Pantry & Dry Goods,grinder,2.34,2.97,20,46
+SKU-PANTRY-008,Dark Brown Soft Sugar 500g,Pantry & Dry Goods,bag,7.62,10.83,59,39
+SKU-PANTRY-009,Toasted Sesame Oil 250ml,Pantry & Dry Goods,bottle,7.09,10.35,103,34
+SKU-BEV-006,Sparkling Pomegranate Soda 4x330ml,Beverages,pack,4.65,6.19,3,54
+SKU-PROD-005,Honeycrisp Apples,Fresh Produce,kg,2.27,3.28,64,48
+SKU-DAIRY-006,Plant-Based Butter Spread 250g,Dairy & Plant-Based,tub,5.36,8.09,34,27
+SKU-FROZ-005,Frozen Wild Blueberries 500g,Frozen Foods,bag,5.83,8.69,6,23
+SKU-SNK-004,Dark Chocolate 72% Cacao 100g,Snacks & Confectionery,bar,3.90,5.67,18,35
+SKU-PROD-006,Cavendish Bananas,Fresh Produce,bunch,4.19,6.20,41,25
+SKU-PANTRY-010,Expeller Pressed Canola Oil 1L,Pantry & Dry Goods,bottle,4.13,5.58,60,35
+SKU-HSE-001,Toilet Paper 3-Ply Soft 12-roll,Household & Cleaning,pack,7.20,10.97,52,22
+SKU-SNK-005,Sea Salt Pretzel Twists 300g,Snacks & Confectionery,bag,5.21,6.84,67,46
+SKU-PANTRY-011,Canned Chickpeas Garbanzo 400g,Pantry & Dry Goods,can,2.11,3.13,35,30
+SKU-HSE-002,Multi-Surface Antibacterial Spray 750ml,Household & Cleaning,spray,7.83,10.72,97,29
+SKU-DAIRY-007,Clarified Butter Ghee 350ml,Dairy & Plant-Based,jar,3.44,4.52,61,40
+SKU-MEAT-002,Raw Peeled Deveined Shrimp 400g,"Meat, Poultry & Seafood",bag,8.98,12.48,44,24
+SKU-PANTRY-012,Extra Virgin Olive Oil Cold Pressed 750ml,Pantry & Dry Goods,bottle,2.48,3.51,58,42
+SKU-PROD-007,White Button Mushrooms 250g,Fresh Produce,pack,4.17,6.77,39,27
+SKU-MEAT-003,Thick Cut Applewood Bacon 375g,"Meat, Poultry & Seafood",pack,9.73,13.56,17,19
+SKU-BAKE-003,Crispy Rice Cereal 375g,Bakery & Breakfast,box,2.57,3.71,16,23
+SKU-BEV-007,Smooth Orange Juice No Pulp 1L,Beverages,carton,4.37,5.93,78,35
+SKU-PROD-008,Fresh Raspberries 150g,Fresh Produce,punnet,3.34,4.65,67,36
+SKU-FROZ-006,Frozen Cut Green Beans 750g,Frozen Foods,bag,8.09,11.54,66,25
+SKU-DAIRY-008,Pecorino Romano 200g,Dairy & Plant-Based,wedge,2.90,4.20,173,43
+SKU-PANTRY-013,Red Split Lentils 500g,Pantry & Dry Goods,bag,2.39,3.37,122,47
+SKU-BAKE-004,Bran Flakes with Raisins 500g,Bakery & Breakfast,box,2.44,3.85,126,32
+SKU-PANTRY-014,Fettuccine Egg Pasta 500g,Pantry & Dry Goods,pack,6.07,8.01,37,27
+SKU-PROD-009,Russet Potatoes Bag 2.5kg,Fresh Produce,bag,3.33,5.20,84,30
+SKU-FROZ-007,Frozen Cheese Pierogies 600g,Frozen Foods,bag,8.38,11.93,72,35
+SKU-MEAT-004,Deli Roast Beef Slices 175g,"Meat, Poultry & Seafood",pack,14.37,20.47,0,25
+SKU-PROD-010,Mixed Salad Greens 200g,Fresh Produce,box,1.14,1.85,48,34
+SKU-HSE-003,Paper Towels Ultra Absorbent 6-roll,Household & Cleaning,pack,12.90,21.79,55,25
+SKU-DAIRY-009,Salted Butter 250g,Dairy & Plant-Based,block,3.05,4.49,0,28
+SKU-PROD-011,Vine-Ripened Tomatoes 500g,Fresh Produce,pack,1.07,1.55,113,40
+SKU-BEV-008,Sparkling Water Natural 1L,Beverages,bottle,8.15,12.64,173,44
+SKU-DAIRY-010,Sour Cream 300ml,Dairy & Plant-Based,tub,1.93,2.54,0,37
+SKU-MEAT-005,Bratwurst Traditional Links 4-pack,"Meat, Poultry & Seafood",tray,15.97,22.35,35,24
+SKU-BAKE-005,Cinnamon Swirl Rolls 4-pack,Bakery & Breakfast,box,3.52,4.68,59,35
+SKU-BAKE-006,Pain au Chocolat 4-pack,Bakery & Breakfast,pack,1.35,2.08,5,15
+SKU-BAKE-007,Plain New York Bagels 5-pack,Bakery & Breakfast,pack,2.44,3.28,54,26
+SKU-PANTRY-015,Rice Vinegar Unseasoned 350ml,Pantry & Dry Goods,bottle,2.62,3.75,73,25
+SKU-MEAT-006,Deli Roasted Turkey Breast Slices 200g,"Meat, Poultry & Seafood",pack,9.72,13.28,43,22
+SKU-DAIRY-011,Greek Yogurt Strawberry 150g,Dairy & Plant-Based,cup,2.74,3.57,75,34
+SKU-PROD-012,Fresh Blueberries 200g,Fresh Produce,punnet,2.66,3.65,23,41
+SKU-FROZ-008,Thin Crust Margherita Pizza 380g,Frozen Foods,box,4.08,6.29,96,33
+SKU-FROZ-009,Frozen Sweet Garden Peas 750g,Frozen Foods,bag,3.46,4.83,44,24
+SKU-SNK-006,White Chocolate Vanilla Bean 100g,Snacks & Confectionery,bar,4.19,6.29,19,32
+SKU-PROD-013,Fresh Strawberries 400g,Fresh Produce,punnet,4.13,6.39,28,20
+SKU-BEV-009,Espresso Roast Coffee Beans 500g,Beverages,bag,6.56,10.71,0,58
+SKU-PROD-014,Cauliflower Head,Fresh Produce,head,1.77,2.81,143,48
+SKU-BAKE-008,Peanut Butter Smooth 500g,Bakery & Breakfast,jar,3.30,4.90,44,22
+SKU-BAKE-009,Brioche Loaf Sliced 500g,Bakery & Breakfast,loaf,1.52,2.26,3,35
+SKU-MEAT-007,Cooked Black Tiger Shrimp Tail-On 300g,"Meat, Poultry & Seafood",bag,13.36,16.79,0,24
+SKU-PANTRY-016,Tri-Color Quinoa Organic 500g,Pantry & Dry Goods,bag,7.47,9.54,83,31
+SKU-PANTRY-017,Arrabbiata Spicy Pasta Sauce 680g,Pantry & Dry Goods,jar,2.63,3.39,24,33
+SKU-PROD-015,Roma Plum Tomatoes,Fresh Produce,kg,2.51,3.59,93,36
+SKU-PROD-016,Fresh Basil Herb Pot,Fresh Produce,pot,2.44,3.88,48,50
+SKU-BEV-010,Tomato Vegetable Juice 1L,Beverages,bottle,7.01,10.43,0,41
+SKU-DAIRY-012,Almond Milk Yogurt 450g,Dairy & Plant-Based,tub,2.32,3.58,77,22
+SKU-PANTRY-018,Penne Rigate Italian 500g,Pantry & Dry Goods,pack,8.46,11.99,0,50
+SKU-SNK-007,Salt & Malt Vinegar Chips 150g,Snacks & Confectionery,bag,5.37,7.01,18,22
+SKU-PANTRY-019,Canned Red Kidney Beans 400g,Pantry & Dry Goods,can,5.06,7.35,76,23
+SKU-MEAT-008,Genoa Salami Sliced 150g,"Meat, Poultry & Seafood",pack,4.85,6.29,59,26
+SKU-BEV-011,English Breakfast Tea 50 bags,Beverages,box,3.39,5.23,0,55
+SKU-BEV-012,Single-Origin Colombian Beans 250g,Beverages,bag,5.73,8.51,81,24
+SKU-PROD-017,Red Bell Peppers,Fresh Produce,kg,1.28,2.09,59,23
+SKU-PROD-018,Arugula Rocket Leaves 150g,Fresh Produce,bag,1.13,1.83,57,23
+SKU-FROZ-010,Frozen Mango Chunks 500g,Frozen Foods,bag,6.42,9.54,18,26
+SKU-MEAT-009,Center Cut Beef Tenderloin Fillet 200g,"Meat, Poultry & Seafood",tray,10.84,15.13,14,28
+SKU-BEV-013,Peppermint Herbal Infusion 25 bags,Beverages,box,7.24,11.19,66,26
+SKU-PROD-019,Shiitake Mushrooms Fresh 150g,Fresh Produce,pack,3.15,4.46,41,21
+SKU-BAKE-010,Orange Seville Marmalade 350g,Bakery & Breakfast,jar,1.53,2.30,76,26
+SKU-FROZ-011,Frozen Cooked Edamame in Pods 400g,Frozen Foods,bag,4.71,6.35,35,16
+SKU-SNK-008,Chocolate Chip Crunchy Cookies 200g,Snacks & Confectionery,pack,4.68,7.14,28,22
+SKU-PANTRY-020,Couscous Medium Grain 500g,Pantry & Dry Goods,box,7.95,10.52,5,21
+SKU-BEV-014,Ginger Ale Craft Soda 4x330ml,Beverages,pack,2.46,4.01,116,56
+SKU-DAIRY-013,Coconut Milk Beverage 1L,Dairy & Plant-Based,litre,3.02,4.04,20,27
+SKU-PANTRY-021,Pure Avocado Oil Cooking Spray 200ml,Pantry & Dry Goods,spray,3.51,5.42,5,20
+SKU-BAKE-011,Rolled Whole Oats 1kg,Bakery & Breakfast,bag,2.03,2.75,0,32
+SKU-PANTRY-022,Jasmine Fragrant Rice 2kg,Pantry & Dry Goods,bag,8.64,11.14,76,41
+SKU-SNK-009,Double Chocolate Fudge Cookies 200g,Snacks & Confectionery,pack,2.85,3.88,0,38
+SKU-FROZ-012,Frozen Triple Berry Medley 500g,Frozen Foods,bag,3.00,4.22,23,16
+SKU-PANTRY-023,Classic Basil Pesto Genovese 190g,Pantry & Dry Goods,jar,5.00,6.79,7,35
+SKU-SNK-010,Milk Chocolate with Whole Hazelnuts 100g,Snacks & Confectionery,bar,3.82,6.23,0,34
+SKU-BAKE-012,Whole Wheat Pita Pockets 6-pack,Bakery & Breakfast,pack,3.60,5.66,40,16
+SKU-PROD-020,Jalapeno Peppers Fresh,Fresh Produce,kg,2.99,4.06,141,34
+SKU-DAIRY-014,Greek Yogurt Blueberry 150g,Dairy & Plant-Based,cup,4.34,6.17,0,33
+SKU-PANTRY-024,Smoked Spanish Paprika 75g,Pantry & Dry Goods,tin,4.96,7.54,21,49
+SKU-MEAT-010,Boneless Pork Loin Chops 4-pack,"Meat, Poultry & Seafood",tray,4.32,5.64,59,19
+SKU-PROD-021,Organic Hass Avocados 4-pack,Fresh Produce,bag,1.91,3.15,34,42
+SKU-MEAT-011,Organic Whole Roasting Chicken 1.6kg,"Meat, Poultry & Seafood",unit,9.17,12.57,51,24
+SKU-DAIRY-015,Oat Milk Barista Blend 1L,Dairy & Plant-Based,litre,4.96,7.26,55,23
+SKU-HSE-004,Hand Soap Refill Bottle 1L,Household & Cleaning,bottle,7.70,11.01,59,25
+SKU-SNK-011,Dark Chocolate Sea Salt Caramel 100g,Snacks & Confectionery,bar,3.35,4.47,0,32
+SKU-PROD-022,Fresh Rosemary Pack 30g,Fresh Produce,pack,1.86,2.65,10,33
+SKU-BAKE-013,Belgian Waffle Mix 500g,Bakery & Breakfast,box,1.42,2.20,41,30
+SKU-BEV-015,Ruby Red Grapefruit Juice 1L,Beverages,carton,7.07,10.76,38,43
+SKU-PROD-023,Green Scallions Spring Onions,Fresh Produce,bunch,2.71,3.93,0,50
+SKU-DAIRY-016,Aged Gouda Cheese 200g,Dairy & Plant-Based,wedge,3.32,5.04,82,23
+SKU-PANTRY-025,Whole Wheat Bread Flour 1.5kg,Pantry & Dry Goods,bag,9.07,11.48,19,47
+SKU-BAKE-014,White Sandwich Bread Enriched,Bakery & Breakfast,loaf,2.23,2.97,33,34
+SKU-PANTRY-026,Red Wine Vinegar 500ml,Pantry & Dry Goods,bottle,2.45,3.42,75,26
+SKU-SNK-012,Trail Mix Cranberry Almond 300g,Snacks & Confectionery,bag,4.10,5.49,80,47
+SKU-BAKE-015,Strawberry Fruit Jam 370g,Bakery & Breakfast,jar,3.99,6.35,0,28
+SKU-MEAT-012,Deli Smoked Black Forest Ham 200g,"Meat, Poultry & Seafood",pack,11.11,15.35,21,15
+SKU-HSE-005,Heavy Duty Aluminum Foil 30m,Household & Cleaning,roll,5.49,8.88,11,17
+SKU-BAKE-016,Pancake Syrup Original 750ml,Bakery & Breakfast,bottle,1.22,1.90,82,26
+SKU-FROZ-013,Frozen Broccoli Florets 600g,Frozen Foods,bag,3.09,4.51,38,17
+SKU-BEV-016,Natural Mineral Water Still 1.5L,Beverages,bottle,3.76,5.57,57,33
+SKU-FROZ-014,Frozen Blueberry Pancakes 8-pack,Frozen Foods,box,7.09,10.22,31,25
+SKU-MEAT-013,Ground Turkey 93/7 Lean 500g,"Meat, Poultry & Seafood",tray,5.47,7.51,3,19
+SKU-PROD-024,Yellow Summer Squash,Fresh Produce,kg,2.31,3.41,20,28
+SKU-BEV-017,Ginger Kombucha Organic 330ml,Beverages,bottle,4.05,5.61,97,48
+SKU-DAIRY-017,Cream Cheese Spread 250g,Dairy & Plant-Based,tub,2.21,3.25,105,33
+SKU-HSE-006,Dishwasher Detergent Pods 36-count,Household & Cleaning,tub,2.66,3.96,26,21
+SKU-MEAT-014,Atlantic Cod Fillets Fresh 400g,"Meat, Poultry & Seafood",tray,7.27,9.39,34,21
+SKU-PROD-025,Fresh Green Beans 400g,Fresh Produce,bag,1.92,2.60,56,29
+SKU-BEV-018,Tonic Water Premium Indian 4x200ml,Beverages,pack,3.79,5.99,17,28
+SKU-PROD-026,Iceberg Lettuce Head,Fresh Produce,head,3.63,5.78,44,37
+SKU-FROZ-015,Mini Ice Cream Bars Chocolate 6-pack,Frozen Foods,box,2.32,3.55,106,28
+SKU-BAKE-017,Natural Blossom Honey 500g,Bakery & Breakfast,jar,3.09,4.67,0,28
+SKU-SNK-013,Deluxe Mixed Nuts No Peanuts 250g,Snacks & Confectionery,tub,2.66,3.84,59,33
+SKU-DAIRY-018,Sweetened Condensed Milk 397g,Dairy & Plant-Based,can,5.31,7.51,45,45
+SKU-PROD-027,Fresh Asparagus Bunch 400g,Fresh Produce,bunch,2.03,3.01,109,49
+SKU-BAKE-018,Hazelnut Cocoa Spread 400g,Bakery & Breakfast,jar,2.52,3.34,133,33
+SKU-PROD-028,Valencia Oranges Bag 2kg,Fresh Produce,bag,1.55,2.45,0,30
+SKU-BEV-019,Spiced Apple Cider Warm 1L,Beverages,bottle,4.78,6.43,86,24
+SKU-BAKE-019,Gluten-Free Oats 750g,Bakery & Breakfast,bag,2.36,3.75,21,26
+SKU-BAKE-020,Berry Crunchy Muesli 500g,Bakery & Breakfast,bag,1.98,2.66,43,19
+SKU-SNK-014,Brown Rice Sea Salt Cakes 130g,Snacks & Confectionery,pack,5.21,7.97,6,24
+SKU-PANTRY-027,Wild Pink Salmon Canned 213g,Pantry & Dry Goods,can,7.82,10.93,49,50
+SKU-BEV-020,Peach Sparkling Iced Tea 330ml,Beverages,can,6.68,9.88,205,56
+SKU-MEAT-015,Regular Ground Beef 80/20 500g,"Meat, Poultry & Seafood",tray,14.30,19.67,0,25
+SKU-SNK-015,Whole Wheat Table Crackers 200g,Snacks & Confectionery,box,3.47,5.08,21,24
+SKU-PROD-029,Organic Bananas,Fresh Produce,bunch,3.51,5.36,0,29
+SKU-BAKE-021,English Muffins Sourdough 6-pack,Bakery & Breakfast,pack,2.87,4.00,34,26
+SKU-BEV-021,Chai Spice Black Tea 40 bags,Beverages,box,7.22,9.61,71,43
+SKU-PROD-030,Broccoli Crowns,Fresh Produce,kg,2.82,4.13,145,39
+SKU-DAIRY-019,Greek Yogurt Plain 500g,Dairy & Plant-Based,tub,5.11,7.22,96,43
+SKU-FROZ-016,Golden Homestyle Waffles 8-pack,Frozen Foods,box,6.01,8.57,87,25
+SKU-BEV-022,Cranberry Classic Juice 1L,Beverages,bottle,7.06,11.54,23,26
+SKU-HSE-007,Glass & Mirror Shine Cleaner 500ml,Household & Cleaning,spray,8.36,11.79,33,14
+SKU-SNK-016,Artisan Rosemary Olive Oil Crackers 170g,Snacks & Confectionery,box,3.93,5.95,24,34
+SKU-DAIRY-020,Parmigiano Reggiano Wedge 200g,Dairy & Plant-Based,wedge,5.20,7.26,25,31
+SKU-HSE-008,Laundry Detergent Pods 42-count,Household & Cleaning,tub,10.52,14.39,48,22
+SKU-SNK-017,Roasted Salted Cashews 200g,Snacks & Confectionery,bag,2.88,4.31,13,22
+SKU-BEV-023,Pineapple Coconut Juice 1L,Beverages,bottle,2.82,4.63,81,38
+SKU-SNK-018,Smoked BBQ Potato Chips 150g,Snacks & Confectionery,bag,1.54,2.36,30,30
+SKU-BAKE-022,Quick Cooking Oats 1kg,Bakery & Breakfast,bag,2.22,3.32,47,26
+SKU-PANTRY-028,Ground Ceylon Cinnamon 60g,Pantry & Dry Goods,jar,7.27,9.27,36,39
+SKU-SNK-019,Sour Cream & Chive Chips 150g,Snacks & Confectionery,bag,4.57,6.47,81,32
+SKU-PROD-031,Baby Spinach Washed 250g,Fresh Produce,bag,4.02,6.63,34,46
+SKU-SNK-020,Dried Mango Slices Organic 150g,Snacks & Confectionery,bag,4.59,6.65,50,22
+SKU-PANTRY-029,Organic Turmeric Powder 70g,Pantry & Dry Goods,jar,2.67,3.51,25,29
+SKU-MEAT-016,Spanish Chorizo Dry Cured 200g,"Meat, Poultry & Seafood",pack,5.90,8.55,53,30
+SKU-DAIRY-021,Heavy Whipping Cream 500ml,Dairy & Plant-Based,carton,2.17,3.24,184,45
+SKU-BAKE-023,Artisan Sourdough Boule 600g,Bakery & Breakfast,loaf,3.38,5.28,59,16
+SKU-BAKE-024,Pita Bread White 6-pack,Bakery & Breakfast,pack,1.71,2.32,23,27
+SKU-MEAT-017,Fresh Sea Scallops 250g,"Meat, Poultry & Seafood",tub,12.51,15.75,40,20
+SKU-PANTRY-030,Organic Virgin Coconut Oil 500ml,Pantry & Dry Goods,jar,6.41,9.46,29,34
+SKU-SNK-021,Crispy Seaweed Snacks Toasted 3-pack,Snacks & Confectionery,pack,3.98,5.61,92,27
+SKU-BEV-024,Chamomile Honey Tea 25 bags,Beverages,box,3.70,6.21,96,32
+SKU-PROD-032,Fresh Zucchini Green,Fresh Produce,kg,1.76,2.58,69,44
+SKU-FROZ-017,Belgian Dark Chocolate Gelato 500ml,Frozen Foods,tub,7.25,9.68,9,21
+SKU-BEV-025,Sparkling Water Lemon 6x330ml,Beverages,pack,5.77,9.52,34,23
+SKU-MEAT-018,Wild Sockeye Salmon Portions 300g,"Meat, Poultry & Seafood",tray,7.06,9.90,51,18
+SKU-FROZ-018,Frozen Super Sweet Corn 750g,Frozen Foods,bag,3.13,4.41,64,31
+SKU-MEAT-019,Italian Sweet Pork Sausages 5-pack,"Meat, Poultry & Seafood",tray,14.56,20.91,84,29
+SKU-MEAT-020,Chicken Breakfast Sausages 10-pack,"Meat, Poultry & Seafood",pack,6.45,9.35,32,26
+SKU-SNK-022,Jalapeno Cheddar Kettle Chips 150g,Snacks & Confectionery,bag,6.13,9.77,53,30
+SKU-DAIRY-022,Organic Goat Milk 1L,Dairy & Plant-Based,bottle,1.94,2.97,82,24
+SKU-SNK-023,Shortbread Butter Rounds 150g,Snacks & Confectionery,box,5.20,7.61,39,24
+SKU-PANTRY-031,Modena Balsamic Vinegar Aged 250ml,Pantry & Dry Goods,bottle,3.33,5.00,71,20
+SKU-PANTRY-032,Skipjack Light Tuna in Water 160g,Pantry & Dry Goods,can,5.69,7.30,82,39
+SKU-PROD-033,Fresh Blackberries 150g,Fresh Produce,punnet,0.96,1.42,0,23
+SKU-DAIRY-023,Havarti Cheese with Herbs 200g,Dairy & Plant-Based,pack,4.10,5.39,177,45
+SKU-HSE-009,Parchment Non-Stick Baking Paper 20m,Household & Cleaning,roll,2.30,3.52,0,29
+SKU-BAKE-025,Rye Bread with Caraway 500g,Bakery & Breakfast,loaf,3.57,4.95,38,22
+SKU-BEV-026,Earl Grey Bergamot Tea 50 bags,Beverages,box,5.24,7.20,107,35
+SKU-PANTRY-033,Spaghetti Bronze Cut 500g,Pantry & Dry Goods,pack,1.69,2.38,100,31
+SKU-SNK-024,Medium Cantina Salsa 450g,Snacks & Confectionery,jar,1.21,1.94,3,37
+SKU-BEV-027,Energy Drink Original 250ml,Beverages,can,3.84,5.57,48,60
+SKU-SNK-025,Kettle Cooked Sea Salt Chips 150g,Snacks & Confectionery,bag,3.03,4.01,31,20
+SKU-MEAT-021,New York Strip Steak 300g,"Meat, Poultry & Seafood",tray,5.17,6.83,71,25
+SKU-DAIRY-024,Shredded Mozzarella 300g,Dairy & Plant-Based,pack,4.87,7.16,23,25
+SKU-BEV-028,Tart Cherry Sleep Tonic 473ml,Beverages,bottle,5.70,9.26,5,50
+SKU-BAKE-026,Everything Bagels 5-pack,Bakery & Breakfast,pack,1.32,1.80,26,29
+SKU-BEV-029,Diet Cola Zero Sugar 6x330ml,Beverages,pack,7.63,10.88,62,32
+SKU-DAIRY-025,Camembert Cheese 250g,Dairy & Plant-Based,box,3.55,4.65,0,37
+SKU-DAIRY-026,French Brie Wheel 200g,Dairy & Plant-Based,wheel,2.51,3.49,129,40
+SKU-BAKE-027,Organic Granola with Almonds 400g,Bakery & Breakfast,bag,1.61,2.27,84,23
+SKU-PANTRY-034,Short Grain Sushi Rice 1kg,Pantry & Dry Goods,bag,9.42,12.73,116,48
+SKU-DAIRY-027,Sharp Cheddar Cheese Block 250g,Dairy & Plant-Based,block,5.22,7.46,129,31
+SKU-PROD-034,Navel Oranges,Fresh Produce,kg,1.07,1.64,107,33
+SKU-SNK-026,Dark Chocolate Covered Pretzels 150g,Snacks & Confectionery,bag,2.83,3.76,73,29
+SKU-BEV-030,Vanilla Cold Foam Iced Coffee 330ml,Beverages,bottle,5.48,8.06,142,48
+SKU-PANTRY-035,Fusilli Spiral Pasta 500g,Pantry & Dry Goods,pack,1.47,2.22,94,34
+SKU-PANTRY-036,Organic Brown Rice 1kg,Pantry & Dry Goods,bag,6.66,9.91,2,28
+SKU-PROD-035,Mini Persian Cucumbers 500g,Fresh Produce,pack,3.08,4.53,74,22
+SKU-SNK-027,Pitted California Prunes 250g,Snacks & Confectionery,bag,1.96,2.57,158,41
+SKU-DAIRY-028,Organic Soy Milk 1L,Dairy & Plant-Based,litre,2.27,3.08,49,21
+SKU-MEAT-022,Lean Ground Beef 90/10 500g,"Meat, Poultry & Seafood",tray,15.37,19.31,5,27
+SKU-PROD-036,Organic Carrots 1kg,Fresh Produce,bag,2.33,3.40,55,41
+SKU-BAKE-028,Almond Butter Creamy 350g,Bakery & Breakfast,jar,1.65,2.33,73,33
+SKU-DAIRY-029,Whole Milk 1L,Dairy & Plant-Based,litre,5.35,6.99,65,27
+SKU-HSE-010,Microfiber Cleaning Cloths 4-pack,Household & Cleaning,pack,13.43,18.68,9,24
+SKU-SNK-028,Cinema Sweet & Salty Popcorn 120g,Snacks & Confectionery,bag,3.51,5.79,109,42
+SKU-MEAT-023,Fresh Chicken Drumsticks 900g,"Meat, Poultry & Seafood",tray,5.03,7.15,71,21
+SKU-BEV-031,Lemon Iced Tea 500ml,Beverages,bottle,8.48,13.77,134,48
+SKU-MEAT-024,Boneless Skinless Chicken Breasts 800g,"Meat, Poultry & Seafood",tray,12.37,16.82,50,26
+SKU-DAIRY-030,Provolone Cheese Slices 200g,Dairy & Plant-Based,pack,4.43,6.79,76,25
+SKU-SNK-029,Stone Ground Tortilla Chips 250g,Snacks & Confectionery,bag,2.31,3.80,71,36
+SKU-PROD-037,Green Bell Peppers,Fresh Produce,kg,2.48,3.62,37,45
+SKU-DAIRY-031,Probiotic Drink Yogurt 6x100ml,Dairy & Plant-Based,pack,3.53,5.46,0,31
+SKU-DAIRY-032,Organic Ghee 500ml,Dairy & Plant-Based,jar,4.06,5.37,0,24
+SKU-BAKE-029,Peanut Butter Crunchy 500g,Bakery & Breakfast,jar,2.51,3.80,0,24
+SKU-PANTRY-037,Powdered Icing Sugar 500g,Pantry & Dry Goods,bag,5.67,8.40,5,35
+SKU-BEV-032,Medium Roast Ground Coffee 340g,Beverages,bag,8.29,12.91,77,28
+SKU-PANTRY-038,Gluten-Free Brown Rice Pasta 400g,Pantry & Dry Goods,pack,8.74,12.97,52,24
+SKU-PROD-038,Baby Red Potatoes 1kg,Fresh Produce,bag,4.09,6.05,63,44
+SKU-BEV-033,Cold Brew Coffee Bottle 330ml,Beverages,bottle,4.84,6.88,46,27
+SKU-PANTRY-039,Whole Black Peppercorn Grinder 150g,Pantry & Dry Goods,grinder,9.34,13.13,10,31
+SKU-DAIRY-033,Unsalted Butter 250g,Dairy & Plant-Based,block,2.73,3.98,35,22
+SKU-PANTRY-040,Canned Diced Plum Tomatoes 400g,Pantry & Dry Goods,can,3.73,5.26,66,40
+SKU-BAKE-030,Chocolate Chip Muffins 4-pack,Bakery & Breakfast,box,4.31,5.80,130,33
+SKU-PROD-039,English Seedless Cucumbers,Fresh Produce,unit,2.86,4.58,60,48
+SKU-PANTRY-041,Baking Soda Pure 500g,Pantry & Dry Goods,box,1.50,2.16,68,22
+SKU-SNK-030,Sour Fruit Chews 175g,Snacks & Confectionery,bag,5.24,7.58,94,26
+SKU-DAIRY-034,Skimmed Milk 1L,Dairy & Plant-Based,litre,3.82,5.58,20,40
+SKU-MEAT-025,Spicy Italian Pork Sausages 5-pack,"Meat, Poultry & Seafood",tray,6.56,9.26,13,30
+SKU-PROD-040,Sweet Vidalia Onions,Fresh Produce,kg,2.34,3.64,60,29
+SKU-PANTRY-042,Basmati Long Grain Rice 2kg,Pantry & Dry Goods,bag,5.14,6.95,10,35
+SKU-MEAT-026,Lamb Loin Chops Fresh 400g,"Meat, Poultry & Seafood",tray,14.27,18.75,74,25
+SKU-HSE-011,Nourishing Daily Shampoo 400ml,Household & Cleaning,bottle,3.72,5.50,49,24
+SKU-FROZ-019,Strawberries & Cream Ice Cream 1L,Frozen Foods,tub,5.14,7.03,33,22
+SKU-MEAT-027,Beef Stew Meat Diced 500g,"Meat, Poultry & Seafood",tray,7.13,9.46,36,16
+SKU-PROD-041,Granny Smith Green Apples,Fresh Produce,kg,3.74,5.23,128,50
+SKU-DAIRY-035,Almond Milk Unsweetened 1L,Dairy & Plant-Based,litre,2.96,4.41,113,43
+SKU-BAKE-031,Blueberry Muffins Fresh 4-pack,Bakery & Breakfast,box,2.85,3.97,59,29
+SKU-PANTRY-043,Sardines in Virgin Olive Oil 120g,Pantry & Dry Goods,can,5.08,6.72,47,36
+SKU-BEV-034,Coconut Water with Mango 500ml,Beverages,bottle,3.04,4.68,88,23
+SKU-BEV-035,Energy Drink Sugar-Free 250ml,Beverages,can,4.98,8.16,76,38
+SKU-DAIRY-036,Half & Half Cream 500ml,Dairy & Plant-Based,carton,3.15,4.41,51,43
+SKU-FROZ-020,Dairy-Free Coconut Vanilla Ice Cream 500ml,Frozen Foods,tub,5.74,7.98,19,33
+SKU-FROZ-021,Frozen Pork & Chive Dumplings 500g,Frozen Foods,bag,4.63,6.54,61,17
+SKU-PROD-042,Yellow Onions Mesh Bag 1kg,Fresh Produce,bag,2.88,4.00,69,41
+SKU-PROD-043,Gala Apples,Fresh Produce,kg,4.16,6.31,68,45
+SKU-DAIRY-037,Cottage Cheese 400g,Dairy & Plant-Based,tub,4.03,5.64,32,26
+SKU-DAIRY-038,Mascarpone Cream Cheese 250g,Dairy & Plant-Based,tub,4.44,6.66,38,24
+SKU-PANTRY-044,Granulated White Cane Sugar 1kg,Pantry & Dry Goods,bag,8.87,11.46,125,39
+SKU-PANTRY-045,Fine Mediterranean Sea Salt 750g,Pantry & Dry Goods,canister,4.52,6.49,105,25
+SKU-PROD-044,Seedless Lemons 500g,Fresh Produce,net,2.52,3.79,107,30
+SKU-HSE-012,Heavy Duty Outdoor Trash Bags 75L 20-pack,Household & Cleaning,box,7.99,10.83,33,21
+SKU-MEAT-028,Prosciutto di Parma 18-month Aged 100g,"Meat, Poultry & Seafood",pack,10.80,15.22,113,28
+SKU-BEV-036,Aloe Vera Natural Drink 500ml,Beverages,bottle,5.44,7.65,75,21
+SKU-PANTRY-046,Sundried Tomato Pesto 190g,Pantry & Dry Goods,jar,6.13,8.99,38,38
+SKU-BAKE-032,Flour Tortillas 10-inch 8-pack,Bakery & Breakfast,pack,1.76,2.62,83,30
+SKU-SNK-031,Raw California Walnuts 200g,Snacks & Confectionery,bag,5.54,7.67,73,24
+SKU-HSE-013,Ultra Dishwashing Liquid Citrus 750ml,Household & Cleaning,bottle,4.47,6.72,33,15
+SKU-BAKE-033,All-Butter Croissants 4-pack,Bakery & Breakfast,pack,2.55,3.91,33,21
+SKU-HSE-014,Food Storage Sandwich Bags 100-pack,Household & Cleaning,box,8.53,13.19,51,16
+SKU-FROZ-022,Gluten-Free Veggie Pizza 350g,Frozen Foods,box,4.57,7.03,15,31
+SKU-PROD-045,Cherry Tomatoes Sweet 250g,Fresh Produce,punnet,2.61,3.95,121,49
+SKU-PANTRY-047,Canned San Marzano Tomatoes 800g,Pantry & Dry Goods,can,5.31,8.16,82,39
+SKU-BEV-037,Club Soda Mixers 6x250ml,Beverages,pack,8.06,13.64,0,34
+SKU-PANTRY-048,Baking Powder Double Acting 200g,Pantry & Dry Goods,can,3.61,4.74,130,44
+SKU-SNK-032,Water Crackers Classic 125g,Snacks & Confectionery,box,2.98,4.85,75,35
+SKU-SNK-033,Fruit & Nut Energy Bites 120g,Snacks & Confectionery,bag,1.76,2.70,13,29
+SKU-SNK-034,Butter Microwave Popcorn 3-pack,Snacks & Confectionery,box,6.39,10.14,10,48
+SKU-PROD-046,Fresh Flat Parsley Bunch,Fresh Produce,bunch,0.94,1.54,62,29
+SKU-DAIRY-039,Coffee Creamer Hazelnut 500ml,Dairy & Plant-Based,bottle,2.75,3.90,79,40
+SKU-BAKE-034,Hot Dog Buns Soft 6-pack,Bakery & Breakfast,pack,3.50,4.69,112,32
+SKU-BEV-038,Oat Milk Latte Ready-to-Drink 250ml,Beverages,can,2.74,4.30,121,35
+SKU-BEV-039,Cold Brew Nitro Can 250ml,Beverages,can,1.30,1.90,51,34
+SKU-HSE-015,Heavy Duty Kitchen Degreaser 500ml,Household & Cleaning,spray,2.16,3.33,47,16
+SKU-BAKE-035,100% Whole Wheat Sandwich Bread,Bakery & Breakfast,loaf,4.29,6.71,65,35
+SKU-DAIRY-040,Grass-Fed Cultured Butter 250g,Dairy & Plant-Based,block,5.37,7.41,71,44
+SKU-BEV-040,Decaf House Blend Beans 250g,Beverages,bag,2.66,4.24,70,56
+SKU-FROZ-023,Crispy Potato Hash Browns 10-pack,Frozen Foods,box,4.83,7.29,29,20
+SKU-SNK-035,Organic Gummy Bears Gelatin-Free 150g,Snacks & Confectionery,bag,3.24,4.77,125,46
+SKU-BAKE-036,Naan Bread Garlic & Coriander 2-pack,Bakery & Breakfast,pack,1.23,1.81,4,16
+SKU-HSE-016,Hydrating Conditioner 400ml,Household & Cleaning,bottle,5.63,9.55,58,22
+SKU-PANTRY-049,Solid White Albacore Tuna in Olive Oil,Pantry & Dry Goods,can,9.27,13.95,77,48
+SKU-MEAT-029,Smoked Turkey Bacon 340g,"Meat, Poultry & Seafood",pack,7.63,10.65,9,18
+SKU-HSE-017,Cling Film Food Wrap 60m,Household & Cleaning,roll,2.27,3.33,10,17
+SKU-SNK-036,Mild Chunky Guacamole 200g,Snacks & Confectionery,tub,4.74,6.48,0,38
+SKU-PROD-047,Crisp Romaine Hearts 3-pack,Fresh Produce,pack,3.71,6.01,175,39
+SKU-MEAT-030,Bone-in Chicken Thighs 1kg,"Meat, Poultry & Seafood",tray,4.58,6.34,38,25
+SKU-DAIRY-041,Vegan Mozzarella Block 200g,Dairy & Plant-Based,block,3.00,4.09,55,35
+SKU-BAKE-037,Hamburger Brioche Buns 4-pack,Bakery & Breakfast,pack,3.69,5.85,80,29
+SKU-PROD-048,Fresh Cilantro Bunch,Fresh Produce,bunch,0.84,1.30,50,38
+SKU-BEV-041,Sparkling Water Lime 6x330ml,Beverages,pack,4.44,6.06,71,27
+SKU-BEV-042,Root Beer Handcrafted 4x330ml,Beverages,pack,5.75,9.64,0,27
+SKU-PROD-049,Baby Carrots Peeled 500g,Fresh Produce,bag,2.89,4.09,45,31
+SKU-BEV-043,Cola Classic Soda 6x330ml,Beverages,pack,6.58,10.15,124,49
+SKU-PANTRY-050,Canned Cannellini White Beans 400g,Pantry & Dry Goods,can,5.20,7.34,109,49
+SKU-FROZ-024,Frozen Breaded Fish Fillets 400g,Frozen Foods,box,6.49,9.40,3,22
+SKU-FROZ-025,Frozen Mixed Stir Fry Vegetables 750g,Frozen Foods,bag,5.01,7.39,72,31
+SKU-DAIRY-042,String Cheese Sticks 12-pack,Dairy & Plant-Based,pack,2.03,2.92,17,23
+SKU-HSE-018,Heavy Duty Kitchen Sponges 4-pack,Household & Cleaning,pack,9.20,12.90,11,18
+SKU-MEAT-031,Cooked Crab Meat Lump 200g,"Meat, Poultry & Seafood",tub,4.95,6.39,45,29
+SKU-BAKE-038,Buttermilk Pancake Mix 900g,Bakery & Breakfast,box,2.67,3.52,62,31
+SKU-BAKE-039,Classic French Baguette 300g,Bakery & Breakfast,loaf,3.06,4.49,73,29
+SKU-DAIRY-043,Ricotta Cheese Fresh 250g,Dairy & Plant-Based,tub,1.88,2.56,1,43
+SKU-DAIRY-044,Vegan Cheddar Shreds 200g,Dairy & Plant-Based,pack,2.61,3.44,28,43
+SKU-PROD-050,Cremini Brown Mushrooms 250g,Fresh Produce,pack,3.18,4.81,40,31
+SKU-SNK-037,Oatmeal Raisin Soft Baked Cookies 220g,Snacks & Confectionery,pack,3.65,5.11,0,49
+SKU-BEV-044,Electrolyte Spring Water 750ml,Beverages,bottle,6.74,10.83,118,31
+SKU-MEAT-032,Beef Ribeye Steak Prime Cut 350g,"Meat, Poultry & Seafood",tray,8.18,11.68,15,28
+SKU-MEAT-033,Pork Tenderloin Whole 500g,"Meat, Poultry & Seafood",pack,8.20,11.37,22,27
+SKU-BAKE-040,Pure Canadian Maple Syrup 250ml,Bakery & Breakfast,bottle,1.64,2.56,8,32
+SKU-SNK-038,Creamy Swiss Milk Chocolate 100g,Snacks & Confectionery,bar,6.46,9.29,44,25
+SKU-DAIRY-045,Swiss Cheese Slices 200g,Dairy & Plant-Based,pack,4.60,7.11,59,20
+SKU-BEV-045,Passionfruit Kombucha 330ml,Beverages,bottle,4.94,8.05,96,47
+SKU-PROD-051,Clementine Mandarins 1kg,Fresh Produce,bag,1.74,2.84,43,24
+SKU-SNK-039,Roasted Salted Almonds 200g,Snacks & Confectionery,bag,5.47,7.91,1,21
+SKU-PANTRY-051,Organic Tomato Paste Tube 150g,Pantry & Dry Goods,tube,2.89,3.70,0,27
+SKU-DAIRY-046,Feta Cheese in Brine 200g,Dairy & Plant-Based,tub,3.45,5.06,57,21
+SKU-BAKE-041,Corn Tortillas Street Taco 12-pack,Bakery & Breakfast,pack,2.53,3.47,7,16
+SKU-SNK-040,Beef Jerky Original Smokehouse 80g,Snacks & Confectionery,bag,5.76,7.60,33,44
+SKU-BEV-046,Cloudy Apple Juice 1L,Beverages,bottle,2.68,4.47,37,38
+SKU-BEV-047,Sparkling Water Wild Berry 6x330ml,Beverages,pack,5.29,8.51,21,40
+SKU-DAIRY-047,Buttermilk Traditional 1L,Dairy & Plant-Based,carton,2.92,3.90,60,27
+SKU-BEV-048,Coconut Water 100% Pure 1L,Beverages,carton,3.18,4.21,95,46
+SKU-HSE-019,Bathroom Cleaner Descaler Spray 750ml,Household & Cleaning,spray,8.99,12.28,71,25
+SKU-HSE-020,Drawstring Tall Trash Bags 30L 30-pack,Household & Cleaning,box,11.84,17.30,38,24
+SKU-BEV-049,Matcha Green Tea Powder 100g,Beverages,tin,3.76,6.02,31,39
+SKU-PROD-052,Fresh Thyme Pack 30g,Fresh Produce,pack,3.69,5.31,91,27
+SKU-PROD-053,Red Onions,Fresh Produce,kg,1.00,1.47,27,49
+SKU-FROZ-026,Plant-Based Burger Patties 2-pack,Frozen Foods,box,5.54,7.74,58,32
+SKU-BEV-050,Orange Juice with Pulp 1L,Beverages,carton,7.91,12.96,3,25
+SKU-HSE-021,Bleach Disinfectant Original 1.5L,Household & Cleaning,bottle,11.08,15.70,77,29
+SKU-FROZ-027,Madagascar Vanilla Ice Cream 1L,Frozen Foods,tub,6.00,9.11,0,34
+SKU-PROD-054,Fresh Garlic Bulbs 3-pack,Fresh Produce,net,3.54,5.40,58,26
+SKU-DAIRY-048,Organic Whole Milk 1L,Dairy & Plant-Based,litre,2.57,3.92,41,35
+SKU-BAKE-042,Honey Nut Toasted Oats Cereal 450g,Bakery & Breakfast,box,4.29,6.82,0,21
+SKU-SNK-041,Granola Protein Bars Dark Chocolate 5-pack,Snacks & Confectionery,box,5.13,8.02,8,23
+SKU-PANTRY-052,Canned Black Beans 400g,Pantry & Dry Goods,can,6.36,8.34,188,42
+SKU-PROD-055,Red Radish Bunch,Fresh Produce,bunch,3.44,5.04,18,30
+SKU-PANTRY-053,Rigatoni Semolina Pasta 500g,Pantry & Dry Goods,pack,4.23,5.62,108,40
+SKU-HSE-022,Facial Tissues Cube Box 90-sheet,Household & Cleaning,box,3.32,5.62,84,26
+SKU-FROZ-028,Salted Caramel Swirl Ice Cream 1L,Frozen Foods,tub,7.96,11.09,66,25
+SKU-MEAT-034,Cold Smoked Salmon Slices 150g,"Meat, Poultry & Seafood",pack,12.77,16.00,0,22
+SKU-FROZ-029,Crispy Golden French Fries 1kg,Frozen Foods,bag,8.09,11.69,56,32
+SKU-PROD-056,Celery Bunch Crisp,Fresh Produce,bunch,1.92,2.81,8,26
+SKU-SNK-042,Classic Licorice Twists 200g,Snacks & Confectionery,pack,4.07,6.63,102,35
+SKU-DAIRY-049,Kefir Cultured Milk 1L,Dairy & Plant-Based,bottle,4.17,5.93,0,43
+SKU-SNK-043,Beef Jerky Teriyaki 80g,Snacks & Confectionery,bag,5.06,7.20,5,25
+SKU-PANTRY-054,Semi-Sweet Chocolate Baking Chips 350g,Pantry & Dry Goods,pack,5.85,7.64,0,43
+SKU-BAKE-043,Multigrain Seeded Loaf 650g,Bakery & Breakfast,loaf,4.47,7.09,46,32
+SKU-PROD-057,Fresh Ginger Root,Fresh Produce,kg,3.58,4.89,63,50
+SKU-DAIRY-050,Evaporated Milk 370ml,Dairy & Plant-Based,can,2.66,3.93,77,40
+SKU-DAIRY-051,Mild Cheddar Slices 200g,Dairy & Plant-Based,pack,3.18,4.63,117,34
+SKU-DAIRY-052,Mozzarella Ball Fresh 125g,Dairy & Plant-Based,pack,4.24,5.53,92,35
+SKU-PANTRY-055,Marinara Tomato Basil Sauce 680g,Pantry & Dry Goods,jar,1.25,1.83,43,20
+SKU-SNK-044,Chewy Peanut Butter Protein Bars 5-pack,Snacks & Confectionery,box,3.81,5.88,14,20
+SKU-DAIRY-053,Goat Cheese Log 150g,Dairy & Plant-Based,pack,5.28,7.10,7,45
+SKU-SNK-045,Dry Roasted Peanuts Salted 350g,Snacks & Confectionery,jar,1.90,2.60,86,36
+SKU-HSE-023,Moisturizing Liquid Hand Soap 300ml,Household & Cleaning,pump,11.96,16.48,13,20
+SKU-FROZ-030,Stonebaked Pepperoni Pizza 410g,Frozen Foods,box,5.76,8.91,77,29
+SKU-DAIRY-054,Babybel Mini Cheeses 6-pack,Dairy & Plant-Based,net,4.22,6.39,0,22
+SKU-HSE-024,Concentrated Laundry Detergent Liquid 1.5L,Household & Cleaning,bottle,3.26,4.83,0,13
+SKU-PROD-058,Key Limes 500g,Fresh Produce,net,2.42,3.73,52,37
+SKU-PROD-059,Leeks Fresh 2-pack,Fresh Produce,bunch,3.67,5.66,52,35
+SKU-BAKE-044,Cinnamon Raisin Bagels 5-pack,Bakery & Breakfast,pack,4.23,5.79,124,31
+SKU-BAKE-045,Steel Cut Oats 750g,Bakery & Breakfast,canister,2.77,3.64,5,33
+SKU-HSE-025,Fabric Softener Fresh Spring 1.2L,Household & Cleaning,bottle,13.25,20.50,0,20
+SKU-DAIRY-055,Skyr Icelandic Yogurt 400g,Dairy & Plant-Based,tub,2.46,3.72,1,21
+SKU-PROD-060,Fuji Apples,Fresh Produce,kg,1.50,2.09,156,50
+SKU-MEAT-035,Fresh Atlantic Salmon Fillet 400g,"Meat, Poultry & Seafood",tray,7.24,9.87,46,17
